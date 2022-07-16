@@ -1,0 +1,21 @@
+{
+    "appID": "891369679451480105",
+    "token": "Bot <token>",
+    "databaseURL": "postgres://postgres:admin@localhost:5432/postgres",
+    "alertChannel": "859539629048856578",
+    "guildID": "834432874928799764",
+    "lotteryChannelID": "941259025939595305",
+    "currency": "<:trusiki:843056414602952734>",
+    "emojiReaction": "<:reaction:941315452196495380>",
+    "emojiRole": "<:role:941315452536234084>",
+    "emojiLottery": "<:lottery:941315452427178025>",
+    "emojiLootbox": "<:pack:941315452574007296>",
+    "emojiPrivateChannel": "<:space:941315452523675699>",
+    "statusPrice": 100,
+    "reactionPrice": 50,
+    "lootboxPrice": 2000,
+    "lotteryPrice": 100,
+    "farmRate": 100,
+    "voiceRate": 1,
+    "voiceDelta": 5
+}
